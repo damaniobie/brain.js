@@ -33,7 +33,7 @@ var brain = {
     GRU: GRU,
   },
   utilities: utilities
-};
+}; 
 
 if (typeof window !== 'undefined') {
   window.brain = brain;
