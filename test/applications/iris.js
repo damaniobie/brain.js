@@ -13,7 +13,7 @@ function dressData() {
             output: row.slice(4)
         });
     });
-}
+} 
 
 function mapStringClassesToNumber() {
     let names = new Set();
