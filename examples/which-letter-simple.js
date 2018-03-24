@@ -2,7 +2,7 @@ import brain from 'brain.js';
 
 const a = character(
   '.#####.' +
-  '#.....#' +
+  '#.....#' + 
   '#.....#' +
   '#######' +
   '#.....#' +
